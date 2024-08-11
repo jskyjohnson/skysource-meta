@@ -1,9 +1,12 @@
 [submodule "admin"]
 	path = admin
-	url = ./admin
+	url = https://github.com/jskyjohnson/skysource-admin.git 
+[submodule "client"]
+	path = client
+	url = https://github.com/jskyjohnson/skysource-client.git
 [submodule "server"]
 	path = server
-	url = ./server
+	url = https://github.com/jskyjohnson/skysource-server.git
 [submodule "ui-library"]
 	path = ui-library
-	url = ./ui-library
+	url = https://github.com/jskyjohnson/skysource-ui-library.git
